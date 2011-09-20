@@ -7,4 +7,4 @@ Known Issues
 ------------
 1. not really object-oriented.
 
-2. computer doesnt guess.
+2. computer doesn't guess.
