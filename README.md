@@ -7,4 +7,6 @@ Known Issues
 ------------
 1. not really object-oriented.
 
-2. computer doesn't guess.
+TODO
+----
+1. declare a winner
